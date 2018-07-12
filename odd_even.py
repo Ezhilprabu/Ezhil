@@ -5,4 +5,4 @@ if(number>=1 and number<=100000):
   elif(number%2==1):
     print("Odd")
 else:
-  print("Invalid")
+  print("invalid")
